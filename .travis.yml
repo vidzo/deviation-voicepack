@@ -20,7 +20,7 @@ before_deploy:
   - cd release && ../create_index.sh && cd ..
 deploy:
   provider: pages
-  repo: vidzo/vidzo.github.io
+  repo: vidzo/github.io
   target_branch: master
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
