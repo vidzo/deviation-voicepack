@@ -153,3 +153,13 @@ power reading
 smoke off
 smoke on
 timer reset
+LED on
+LED off
+throttle armed
+throttle disarmed
+air mode
+buzzer on
+buzzer
+flips
+level mode
+low battery land
