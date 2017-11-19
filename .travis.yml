@@ -8,9 +8,16 @@ script:
   - cd genspeech
   - ./genspeech EN Alex
   - ./genspeech EN Samantha
-  - ./genspeech FR Thomas
-  - ./genspeech FR Amelie
-  - ./genspeech DE Anna
+  - ./genspeech EN Agnes
+  - ./genspeech EN Fiona
+  - ./genspeech EN Karen
+  - ./genspeech EN Kathy
+  - ./genspeech EN Moira
+  - ./genspeech EN Princess
+  - ./genspeech EN Vicki
+  - ./genspeech EN Victoria
+  - ./genspeech EN Daniel
+  - ./genspeech EN Fred
   - cd ..
   - say -v ?
 before_deploy:
