@@ -6,7 +6,7 @@ install:
   - brew install lame
 script: 
   - cd genspeech
-  - ./genspeech EN Alex
+  - ./genspeech EN Anna
   - cd ..
   - say -v ?
 before_deploy:
