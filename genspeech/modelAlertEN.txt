@@ -159,7 +159,7 @@ throttle armed
 throttle disarmed
 air mode
 buzzer on
-buzzer
-flips
+buzzer off
+flips mode
 level mode
-low battery land
+low battery. land now
