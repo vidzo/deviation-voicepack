@@ -6,7 +6,26 @@ install:
   - brew install lame
 script: 
   - cd genspeech
-  - ./genspeech EN Anna
+  - ./genspeech EN Alex
+  - ./genspeech EN Samantha
+  - ./genspeech EN Agnes
+  - ./genspeech EN Fiona
+  - ./genspeech EN Karen
+  - ./genspeech EN Kathy
+  - ./genspeech EN Moira
+  - ./genspeech EN Princess
+  - ./genspeech EN Vicki
+  - ./genspeech EN Victoria
+  - ./genspeech EN Daniel
+  - ./genspeech EN Fred
+  - ./genspeech EN Amelie
+  - ./genspeech EN Cellos 
+  - ./genspeech EN Ellen 
+  - ./genspeech EN Monica
+  - ./genspeech EN Tessa
+  - ./genspeech EN Veena
+  - ./genspeech EN Alice
+  - ./genspeech EN Ralph 
   - cd ..
   - say -v ?
 before_deploy:
